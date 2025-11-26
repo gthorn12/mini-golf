@@ -1,3 +1,13 @@
+/* oled.c
+* 
+* Simple custom SSD1306 OLED display driver based on the Adafruit SSD1306 library, the UCTRONICS
+* SSD1306 library (https://github.com/supprot/ArducamSSD1306), Sylaina's github at
+* https://github.com/Sylaina/oled-display/tree/master, and various online resources.
+* 
+* Created on: November 22, 2023
+* Author:     Grady Horn
+*/
+
 #include "oled.h"
 #include <stdint.h>
 #include <avr/pgmspace.h>
