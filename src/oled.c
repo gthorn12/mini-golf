@@ -200,9 +200,12 @@ void ssd1306_print(const char* str) {
     }
 }
 
-void ssd1306_print_2x(const char* str) {
-    // Print a string scaled 2x
-    while (*str) {
-        ssd1306_print_char_2x(*str++);
-    }
-}   
+// Want to implement in the future
+// -a way to scale the font 2x-
+//
+// void ssd1306_print_2x(const char* str) {
+//     // Print a string scaled 2x
+//     while (*str) {
+//         ssd1306_print_char_2x(*str++);
+//     }
+//}   
