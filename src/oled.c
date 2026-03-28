@@ -4,7 +4,7 @@
 * SSD1306 library (https://github.com/supprot/ArducamSSD1306), Sylaina's github at
 * https://github.com/Sylaina/oled-display/tree/master, and various online resources.
 * 
-* Created on: November 22, 2023
+* Created on: November 22, 2025
 * Author:     Grady Horn
 */
 
